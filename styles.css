@@ -197,6 +197,8 @@ p { margin: 0; }
   position: relative;
   width: 500%;
   margin: 0 auto;
+  font-size: 0;
+  white-space: nowrap;
 }
 
 .top_jacket_item {
@@ -204,6 +206,7 @@ p { margin: 0; }
   display: inline-block;
   width: calc(100% / 5);
   vertical-align: top;
+  text-align: center;
 }
 
 .top_jacket_clear {

@@ -19,12 +19,11 @@
   var arrowRWrap  = document.getElementById("arrowRWrap");
 
   var jacketItems = jacketWrap ? jacketWrap.children : [];
-  // 6 items: [0]=clone of jacket4, [1]=jacket1, [2]=jacket2, [3]=jacket3, [4]=jacket4, [5]=clone of jacket1
-  var totalItems  = jacketItems.length;
   var backDivs    = backWrap ? backWrap.children : []; // 4 backgrounds
+  var REAL_SLIDE_COUNT = 4;
+  var VISIBLE_SLOT_COUNT = 5;
 
   // ── Slider state ─────────────────────────
-  // Reference site starts at index 1 (after prepending clone of last)
   var currentIndex = 1;
   var animating    = false;
   var ANIM_DURATION = 500; // ms, matches reference's 500ms
@@ -33,20 +32,42 @@
   var gearAngle = 0;
 
   // ── Position slider ──────────────────────
-  function getSlideWidth() {
-    if (!jacketWrap) return 0;
-    return jacketWrap.scrollWidth / totalItems;
+  function getSlides() {
+    if (!jacketWrap) return [];
+    return Array.prototype.slice.call(jacketWrap.children);
   }
 
-  function setSliderPosition(animate) {
-    if (!jacketWrap) return;
-    var slideW = getSlideWidth();
-    if (animate) {
-      jacketWrap.style.transition = "margin-left " + ANIM_DURATION + "ms cubic-bezier(0.22,0.61,0.36,1)";
-    } else {
-      jacketWrap.style.transition = "none";
+  function cloneSlide(slide) {
+    var clone = slide.cloneNode(true);
+    clone.setAttribute("data-clone", "true");
+    return clone;
+  }
+
+  function clearSlideOffsets() {
+    var slides = getSlides();
+    for (var i = 0; i < slides.length; i++) {
+      slides[i].style.transition = "none";
+      slides[i].style.marginLeft = "";
+      slides[i].style.marginRight = "";
     }
-    jacketWrap.style.marginLeft = (-slideW * currentIndex) + "px";
+  }
+
+  function rebuildSlider() {
+    if (!jacketWrap) return;
+
+    var slides = getSlides();
+    for (var i = slides.length - 1; i >= 0; i--) {
+      if (slides[i].getAttribute("data-clone") === "true") {
+        jacketWrap.removeChild(slides[i]);
+      }
+    }
+
+    slides = getSlides();
+    if (slides.length !== REAL_SLIDE_COUNT) return;
+
+    jacketWrap.insertBefore(cloneSlide(slides[slides.length - 1]), slides[0]);
+    jacketWrap.style.marginLeft = -(jacketWrap.offsetWidth / VISIBLE_SLOT_COUNT) + "px";
+    clearSlideOffsets();
   }
 
   // ── Background switching ─────────────────
@@ -68,51 +89,68 @@
     }
   }
 
-  // Get the real jacket index (1-4) from current slider position
-  function getRealIndex(pos) {
-    return ((pos - 1) % 4 + 4) % 4 + 1;
+  function updateCurrentIndex(direction) {
+    currentIndex += direction;
+    if (currentIndex > REAL_SLIDE_COUNT) currentIndex = 1;
+    if (currentIndex < 1) currentIndex = REAL_SLIDE_COUNT;
   }
 
   // ── Slide next (right arrow) ──────────────
-  // Reference logic: animate marginLeft to show next item,
-  // then remove first, append clone, reset position
   function slideNext() {
-    if (animating) return;
+    if (animating || !jacketWrap) return;
     animating = true;
 
-    currentIndex++;
-    setSliderPosition(true);
+    var slides = getSlides();
+    if (slides.length < VISIBLE_SLOT_COUNT) {
+      animating = false;
+      return;
+    }
 
-    var realIdx = getRealIndex(currentIndex);
-    switchBackground(realIdx);
+    var shift = (jacketWrap.offsetWidth / VISIBLE_SLOT_COUNT) * -2;
+    var firstSlide = slides[0];
+    var nextClone = cloneSlide(slides[1]);
+
+    updateCurrentIndex(1);
+    switchBackground(currentIndex);
+
+    firstSlide.style.transition = "margin-left " + ANIM_DURATION + "ms cubic-bezier(0.215, 0.61, 0.355, 1)";
+    firstSlide.style.marginLeft = shift + "px";
 
     setTimeout(function () {
-      // If we've reached the clone at the end (index 5), jump to real index 1
-      if (currentIndex >= totalItems - 1) {
-        currentIndex = 1;
-        setSliderPosition(false);
-      }
+      if (firstSlide.parentNode === jacketWrap) jacketWrap.removeChild(firstSlide);
+      jacketWrap.appendChild(nextClone);
+      jacketWrap.style.marginLeft = -(jacketWrap.offsetWidth / VISIBLE_SLOT_COUNT) + "px";
+      clearSlideOffsets();
       animating = false;
     }, ANIM_DURATION + 20);
   }
 
   // ── Slide prev (left arrow) ──────────────
   function slidePrev() {
-    if (animating) return;
+    if (animating || !jacketWrap) return;
     animating = true;
 
-    currentIndex--;
-    setSliderPosition(true);
+    var slides = getSlides();
+    if (slides.length < VISIBLE_SLOT_COUNT) {
+      animating = false;
+      return;
+    }
 
-    var realIdx = getRealIndex(currentIndex);
-    switchBackground(realIdx);
+    var shift = (jacketWrap.offsetWidth / VISIBLE_SLOT_COUNT) * -2;
+    var lastSlide = slides[slides.length - 1];
+    var prevClone = cloneSlide(slides[slides.length - 2]);
+
+    updateCurrentIndex(-1);
+    switchBackground(currentIndex);
+
+    lastSlide.style.transition = "margin-right " + ANIM_DURATION + "ms cubic-bezier(0.215, 0.61, 0.355, 1)";
+    lastSlide.style.marginRight = shift + "px";
 
     setTimeout(function () {
-      // If we've reached the clone at the start (index 0), jump to real index 4
-      if (currentIndex <= 0) {
-        currentIndex = totalItems - 2; // = 4
-        setSliderPosition(false);
-      }
+      if (lastSlide.parentNode === jacketWrap) jacketWrap.removeChild(lastSlide);
+      jacketWrap.insertBefore(prevClone, jacketWrap.firstChild);
+      jacketWrap.style.marginLeft = -(jacketWrap.offsetWidth / VISIBLE_SLOT_COUNT) + "px";
+      clearSlideOffsets();
       animating = false;
     }, ANIM_DURATION + 20);
   }
@@ -132,7 +170,8 @@
   window.addEventListener("resize", function () {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(function () {
-      setSliderPosition(false);
+      jacketWrap.style.marginLeft = -(jacketWrap.offsetWidth / VISIBLE_SLOT_COUNT) + "px";
+      clearSlideOffsets();
       setArrowHeights();
     }, 200);
   });
@@ -176,7 +215,8 @@
     if (loading) loading.classList.add("loading--hidden");
 
     // Position slider immediately (no animation)
-    setSliderPosition(false);
+    rebuildSlider();
+    switchBackground(currentIndex);
     setArrowHeights();
 
     // === Intro sequence (matching reference site timing) ===
