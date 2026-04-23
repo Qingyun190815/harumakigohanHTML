@@ -3,7 +3,9 @@
     "allow": [
       "WebFetch(domain:harumakigohan.com)",
       "Bash(curl *)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(xargs grep *)",
+      "Bash(git checkout *)"
     ]
   }
 }
