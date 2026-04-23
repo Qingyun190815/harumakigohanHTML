@@ -1,0 +1,833 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+	<meta property="og:title" content="はるまきごはんオフィシャルサイト" />
+	<meta property="og:image" content="img/artistphoto.png" />
+	<meta name="description" content="はるまきごはんの公式サイト">
+	<meta name="keywords" content="はるまきごはん"> 
+	<link href="https://fonts.googleapis.com/css?family=Trirong&display=swap" rel="stylesheet">
+
+	<meta charset="UTF-8">
+	<title>ページが見つかりませんでした | はるまきごはんオフィシャルサイト</title>
+	<link rel="shortcut icon" href="https://harumakigohan.com/wp-content/themes/gohantheme/img/favicon.ico">
+	<link rel="apple-touch-icon" href="https://harumakigohan.com/wp-content/themes/gohantheme/img/home.png"/>
+	<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/harumakigohan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.21"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://harumakigohan.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.21' type='text/css' media='all' />
+<link rel='stylesheet' id='gohan-style-css'  href='https://harumakigohan.com/wp-content/themes/gohantheme/style.css?ver=5.2.21' type='text/css' media='all' />
+<link rel='stylesheet' id='gohan-swipercss-css'  href='https://harumakigohan.com/wp-content/themes/gohantheme/css/swiper.min.css?ver=5.2.21' type='text/css' media='all' />
+<link rel='stylesheet' id='gohan-zstyle-css'  href='https://harumakigohan.com/wp-content/themes/gohantheme/css/gohan_style.css?0515&#038;ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='gohan-contents-css'  href='https://harumakigohan.com/wp-content/themes/gohantheme/css/contents.css?ver=5.2.21' type='text/css' media='all' />
+<script type='text/javascript' src='https://harumakigohan.com/wp-content/themes/gohantheme/js/jquery-1.10.2.min.js?ver=1'></script>
+<script type='text/javascript' src='https://harumakigohan.com/wp-content/themes/gohantheme/js/jquery.easing.1.3.js?ver=1'></script>
+<script type='text/javascript' src='https://harumakigohan.com/wp-content/themes/gohantheme/js/swiper.js?ver=1'></script>
+<script type='text/javascript' src='https://harumakigohan.com/wp-content/themes/gohantheme/js/jqfloat.min.js?ver=1'></script>
+<script type='text/javascript' src='https://harumakigohan.com/wp-content/themes/gohantheme/js/gohan_js.js?0213&#038;ver=1'></script>
+<link rel='https://api.w.org/' href='https://harumakigohan.com/wp-json/' />
+		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Global site tag (gtag.js) - Google Analytics 消しちゃダメ-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-86933697-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-86933697-3');
+</script>
+
+	</head>
+
+<body>
+	
+<div class="top_menubutton">
+
+	<div class="top_menuwrap">
+		<li class="b_top"><a href="http://harumakigohan.com/">TOP</li></a>
+		<a href="#news"><li class="b_news top_news">NEWS</li></a>
+		<a href="https://harumakigohan.com/index.php#news"><li class="b_news other_news">NEWS</li></a>
+		<a href="https://harumakigohan.com/profile"><li class="b_prof">PROFILE</li></a>
+		<a href="#disco"><li class="b_disc top_disc">DISCOGRAPHY</li></a>
+		<a href="https://harumakigohan.com/index.php#disco"><li class="b_disc other_disc">DISCOGRAPHY</li></a>
+
+		<a href="#series"><li class="b_ser top_ser">SERIES</li></a>
+		<a href="https://harumakigohan.com/index.php#series"><li class="b_series other_ser">SERIES</li></a>
+		<a href="https://harumakigohan.com/chara"><li class="b_chara">CHARACTERS</li></a>
+		<a href="https://harumakigohan.com/live"><li class="b_live">LIVE</li></a>
+		<a href="https://harumakigohan.com/contact"><li class="b_contact">CONTACT</li></a>
+		<a href="https://harumakigohan.com/studiogohan" target="_blank"><li class="b_studio">STUDIO GOHAN</li></a>
+		
+	</div>
+</div>
+
+	<div class="menu-trigger">
+	  <span></span>
+	  <span></span>
+	  <span></span>
+	</div>
+
+	<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_menu.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_menu2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_menu.png" class="pc_menu lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_menu.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_menu.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_menu2x.png 2x" class="pc_menu"></noscript>
+
+	<div class="top_close">
+	</div>
+
+
+
+<div class="top_cloudwrap">
+<li class="top_cloud cloud3"><img  data-src='https://harumakigohan.com/wp-content/themes/gohantheme/img/cloud3.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/cloud3.png"></noscript></li>
+<li class="top_cloud cloud2"><img  data-src='https://harumakigohan.com/wp-content/themes/gohantheme/img/cloud2.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/cloud2.png"></noscript></li>
+<li class="top_cloud cloud1"><img  data-src='https://harumakigohan.com/wp-content/themes/gohantheme/img/cloud1.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/cloud1.png"></noscript></li>
+<li class="top_star star"><img  data-src='https://harumakigohan.com/wp-content/themes/gohantheme/img/star.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/star.png"></noscript></li>
+</div>
+
+<link rel="canonical" href="https://harumakigohan.com">
+</head>
+<body><!-- 
+	<div id="scrollValue"></div> -->
+<div class="loading">
+	<img  data-src='https://harumakigohan.com/wp-content/themes/gohantheme/img/nowloading.gif' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/nowloading.gif"></noscript>
+	<div class="top_gradient">
+	</div>
+</div>
+
+
+<div class="top_gradient">
+</div>
+
+<div class="top_storebtn"><a href="https://harumakigohan.com/studiogohan/" target="_blank"><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/b_studio_2x.png" class="b_studio lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/b_studio_2x.png" class="b_studio"></noscript></a>
+<a href="https://official-goods-store.jp/harumakigohan/" target="_blank"><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/store_2x.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/store_2x.png" class=""></noscript></a>
+
+</div>
+<div class="pc_sns">
+	<a href="https://www.youtube.com/c/harumakigohan" target="_blank">
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_yt.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_yt2x.png 2x" data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_yt.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_yt.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_yt.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_yt2x.png 2x"></noscript></a><br><!--
+
+	--><a href="https://www.nicovideo.jp/mylist/57349416" target="_blank">
+	<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_nico.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_nico2x.png 2x" data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_nico.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_nico.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_nico.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_nico2x.png 2x"></noscript></a><br><!--
+
+	--><a href="https://twitter.com/harumaki_gohan" target="_blank">
+	<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_tw.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_tw2x.png 2x" data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_tw.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_tw.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_tw.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_tw2x.png 2x"></noscript></a><br><!--
+
+	--><a href="https://www.instagram.com/harumaki_gohan/?hl=ja" target="_blank">
+	<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_insta.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_insta2x.png 2x" data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_insta.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_insta.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_insta.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_insta2x.png 2x"></noscript></a><br><!--
+
+	--><a href="https://line.me/R/ti/p/%40harumaki_gohan" target="_blank">
+	<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_line.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_line2x.png 2x" data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_line.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_line.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_line.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/pc_line2x.png 2x"></noscript>
+	</a>
+</div>
+
+
+<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/title.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/title2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/title.png" class="top_title lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/title.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/title.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/title2x.png 2x" class="top_title"></noscript>
+
+
+<div class="top_girl"><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/girl.gif" class="top_girl_img lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/girl.gif" class="top_girl_img"></noscript></div>
+<!-- 
+
+<div class="top_new_release">
+<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/top_newrelease.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/top_newrelease2x.png 2x" data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/top_newrelease.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/top_newrelease.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/top_newrelease.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/top_newrelease2x.png 2x"></noscript>
+</div>
+
+<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/new_title.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/new_title2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/new_title.png" class="top_new_title lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/new_title.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/new_title.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/new_title2x.png 2x" class="top_new_title"></noscript>
+<br>
+
+<div class="top_new_thumbnail"><a href="https://youtu.be/gUGmed-NOow" target="_blank"><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/new_thumbnail.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/new_thumbnail2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/new_thumbnail.png" class="top_new_youtube lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/new_thumbnail.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/new_thumbnail.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/new_thumbnail2x.png 2x" class="top_new_youtube"></noscript></a></div> -->
+<br>
+
+
+
+<div id="news">
+<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/m_news.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/m_news2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/m_news.png" class="top_m_news lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/m_news.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/m_news.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/m_news2x.png 2x" class="top_m_news"></noscript><br>
+</div>
+
+
+
+
+
+
+
+<div class="swiper-container top-container">
+    <div class="swiper-wrapper top-wrapper">
+        <!-- Slides -->
+        
+						
+			<div class="swiper-slide top-slide">
+
+				<a href="https://pjcircles.com/" target="_blank">
+
+					<div class="news_kiji">
+						<img width="1920" height="1080"   alt="" data-srcset="https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527-1024x576.jpg 1024w"  data-src="https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527.jpg" data-sizes="(max-width: 1920px) 100vw, 1920px" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1920" height="1080" src="https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527.jpg" class="attachment-full size-full" alt="" srcset="https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2026/03/Harumaki_Domefes_3840x2160_20260318194527-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>
+												<div class="news_textwrap">
+								<div class="news_bottom">
+								<span class="news_text">複合アートイベント「Project Circles -ミクたちとの共振-」<br>
+</span>
+								<span class="news_midashi">360°ムービー「ぽかぽかの音楽隊 feat.初音ミク」</span>
+								</div>
+							</div>
+			
+					</div>
+				</a>
+			</div>
+
+						
+			<div class="swiper-slide top-slide">
+
+				<a href="https://www.youtube.com/watch?v=0q6uIpgQpGE" target="_blank">
+
+					<div class="news_kiji">
+						<img width="1920" height="1080"   alt="" data-srcset="https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01-1024x576.jpg 1024w"  data-src="https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01.jpg" data-sizes="(max-width: 1920px) 100vw, 1920px" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1920" height="1080" src="https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01.jpg" class="attachment-full size-full" alt="" srcset="https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2026/02/ONG_thum1mix01master_logoonB01-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>
+												<div class="news_textwrap">
+								<div class="news_bottom">
+								<span class="news_text">オリジナルアニメ『お姉ちゃんごっこ』<br>
+</span>
+								<span class="news_midashi">第一話「電話編」公開</span>
+								</div>
+							</div>
+			
+					</div>
+				</a>
+			</div>
+
+						
+			<div class="swiper-slide top-slide">
+
+				<a href="https://www.youtube.com/watch?v=RD-g6a56XKU" target="_blank">
+
+					<div class="news_kiji">
+						<img width="1920" height="1080"   alt="" data-srcset="https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02-1024x576.jpg 1024w"  data-src="https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02.jpg" data-sizes="(max-width: 1920px) 100vw, 1920px" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1920" height="1080" src="https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02.jpg" class="attachment-full size-full" alt="" srcset="https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2026/01/dopplganger_thumB_base01_master02-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>
+												<div class="news_textwrap">
+								<div class="news_bottom">
+								<span class="news_text">NEW MV RELEASE<br></span>
+								<span class="news_midashi">「ドッペルゲンガー」MV 公開</span>
+								</div>
+							</div>
+			
+					</div>
+				</a>
+			</div>
+
+						
+			<div class="swiper-slide top-slide">
+
+				<a href="https://harumakigohan.com/onego/" target="_blank">
+
+					<div class="news_kiji">
+						<img width="1920" height="1080"   alt="" data-srcset="https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01-1024x576.jpg 1024w"  data-src="https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01.jpg" data-sizes="(max-width: 1920px) 100vw, 1920px" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1920" height="1080" src="https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01.jpg" class="attachment-full size-full" alt="" srcset="https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2025/12/ONGメインビジュアルHD01-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>
+												<div class="news_textwrap">
+								<div class="news_bottom">
+								<span class="news_text">新シリーズ<br>
+長編オリジナルアニメ
+</span>
+								<span class="news_midashi">お姉ちゃんごっこ 2026.01 START</span>
+								</div>
+							</div>
+			
+					</div>
+				</a>
+			</div>
+
+						
+			<div class="swiper-slide top-slide">
+
+				<a href="https://harumakigohan.com/hmgbd/" target="_blank">
+
+					<div class="news_kiji">
+						<img width="1920" height="1080"   alt="" data-srcset="https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm-1024x576.jpg 1024w"  data-src="https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm.jpg" data-sizes="(max-width: 1920px) 100vw, 1920px" class="attachment-full size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1920" height="1080" src="https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm.jpg" class="attachment-full size-full" alt="" srcset="https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm.jpg 1920w, https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm-300x169.jpg 300w, https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm-768x432.jpg 768w, https://harumakigohan.com/wp-content/uploads/2025/09/ハンドメイドギンガBDメインビジュアル03master01_sm-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>
+												<div class="news_textwrap">
+								<div class="news_bottom">
+								<span class="news_text">2025.12.08 Release 発売中</span>
+								<span class="news_midashi">Blu-ray「ハンドメイドギンガ Finale-新しい旅-」</span>
+								</div>
+							</div>
+			
+					</div>
+				</a>
+			</div>
+
+			        
+        
+    </div>
+
+    
+    <!-- If we need navigation buttons -->
+    <div class="swiper-button-prev top-prev"></div>
+    <div class="swiper-button-next top-next"></div>
+</div>
+
+<!-- If we need pagination -->
+<div class="swiper-pagination top-pagination"></div>
+
+
+<div class="top_hr_cloudwrap">
+	<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/hr_cloud.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/hr_cloud2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/hr_cloud.png" class="top_hr_cloud lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/hr_cloud.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/hr_cloud.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/hr_cloud2x.png 2x" class="top_hr_cloud"></noscript>
+</div>
+
+
+<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/m_disco.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/m_disco2x.png 2x"  id="disco" data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/m_disco.png" class="top_m_disco lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/m_disco.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/m_disco.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/m_disco2x.png 2x" class="top_m_disco" id="disco"></noscript><br>
+
+<div class="top_disco_pc">
+	<div id="loopslider_top">
+		<ul class="">	 
+
+			<li class="top_discowrap otgwrap"><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_otg.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_otg.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_otg.png" class="top_album_back"></noscript></noscript><!-- <img  data-src='https://harumakigohan.com/wp-content/themes/gohantheme/img/back_otg_move.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_otg_move.png"></noscript> --><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_otg.jpg" class="top_jak jak_otg lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_otg.jpg" class="top_jak jak_otg"></noscript><span class="top_album_s font_otg">10th Anniversary Album(2024)</span><span class="top_album_title font_otg">「おとぎの銀河団」</span></li>
+
+			<li class="top_discowrap gnewrap"><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne.png" class="top_album_back"></noscript></noscript><!-- <img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne_move.png" class="top_album_back move_gne lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne_move2x.png 2x" class="top_album_back move_gne"></noscript> --><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_gne.png" class="top_jak jak_gne lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_gne.png" class="top_jak jak_gne"></noscript><span class="top_album_s">4thフルアルバム(2022)</span><span class="top_album_title">「幻影EP-Envy Phantom-」</span></li>
+
+
+			<li class="top_discowrap ftrwrap"><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr.png" class="top_album_back"></noscript></noscript><!-- <img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr_move.png" class="top_album_back move_ftr lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr_move2x.png 2x" class="top_album_back move_ftr"></noscript> --><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ftr.jpg" class="top_jak jak_ftr lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ftr.jpg" class="top_jak jak_ftr"></noscript><span class="top_album_s">NEWフルアルバム(2020)</span><span class="top_album_title">「ふたりの」</span></li>
+
+			<li class="top_discowrap ndtwrap"><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt2x.png 2x" class="top_album_back"></noscript></noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x" class="top_album_back move_ndt"></noscript></noscript></noscript></noscript></noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ndt.jpg" class="top_jak jak_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ndt.jpg" class="top_jak jak_ndt"></noscript><span class="top_album_s">2ndフルアルバム(2018)</span><span class="top_album_title">「ネオドリームトラベラー」</span></li>
+			　
+			<li class="top_discowrap ssswrap"><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss2x.png 2x" class="top_album_back"></noscript></noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png" class="top_album_back move_sss lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png" class="top_album_back move_sss lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move2x.png 2x" class="top_album_back move_sss"></noscript></noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_sss.jpg" class="top_jak sss lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_sss.jpg" class="top_jak sss lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_sss.jpg" class="top_jak sss"></noscript></noscript><span class="top_album_s">Acousticミニアルバム(2017)</span><span class="top_album_title">「SLEEP SHEEP SUNROOM」</span></li>
+			　
+			<li class="top_discowrap benwrap"><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben.png" class="top_album_back back_ben lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben2x.png 2x" class="top_album_back back_ben"></noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png" class="top_album_back move_ben lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png" class="top_album_back move_ben lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move2x.png 2x" class="top_album_back move_ben"></noscript></noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ben.jpg" class="top_jak ben_margin ben lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ben.jpg" class="top_jak ben_margin ben"></noscript><span class="top_album_s ben_s ben_margin">1stフルアルバム(2016)</span><span class="top_album_title ben_title ben_margin">「BLUE ENDING NOVA」</span></li>
+		</ul>
+	</div>
+</div>
+
+
+
+
+
+
+<div class="top_disco_sp">
+	<div class="top_discowrap album_margin otgwrap">
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_otg.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_otg.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_otg.png" class="top_album_back"></noscript></noscript>
+
+<!-- 		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x" class="top_album_back move_ndt"></noscript></noscript></noscript></noscript></noscript> -->
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x" class="top_kuwasiku"></noscript></noscript></noscript></noscript></noscript>
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_otg.jpg" class="top_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_otg.jpg" class="top_jak"></noscript>
+		<span class="top_album_s font_otg">10th Anniversary Album(2024)</span>
+		<span class="top_album_title font_otg">「おとぎの銀河団」</span>
+
+	</div>
+
+
+
+
+	<div class="top_discowrap album_margin gnewrap">
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_gne.png" class="top_album_back"></noscript></noscript>
+
+<!-- 		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x" class="top_album_back move_ndt"></noscript></noscript></noscript></noscript></noscript> -->
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x" class="top_kuwasiku"></noscript></noscript></noscript></noscript></noscript>
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_gne.png" class="top_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_gne.png" class="top_jak"></noscript>
+		<span class="top_album_s">4thフルアルバム(2022)</span>
+		<span class="top_album_title">「幻影EP-Envy Phantom-」</span>
+
+	</div>
+
+
+
+
+
+	<div class="top_discowrap album_margin ftrwrap">
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ftr.png" class="top_album_back"></noscript></noscript>
+
+<!-- 		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x" class="top_album_back move_ndt"></noscript></noscript></noscript></noscript></noscript> -->
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x" class="top_kuwasiku"></noscript></noscript></noscript></noscript></noscript>
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ftr.jpg" class="top_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ftr.jpg" class="top_jak"></noscript>
+		<span class="top_album_s">3rdフルアルバム(2020)</span>
+		<span class="top_album_title">「ふたりの」</span>
+
+	</div>
+
+
+
+
+	<div class="top_discowrap album_margin ndtwrap">
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt2x.png 2x" class="top_album_back"></noscript></noscript>
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" class="top_album_back move_ndt lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ndt_move2x.png 2x" class="top_album_back move_ndt"></noscript></noscript></noscript></noscript></noscript>
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x" class="top_kuwasiku"></noscript></noscript></noscript></noscript></noscript>
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ndt.jpg" class="top_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ndt.jpg" class="top_jak"></noscript>
+		<span class="top_album_s">2ndフルアルバム(2018)</span>
+		<span class="top_album_title">「ネオドリームトラベラー」</span>
+
+	</div>
+
+
+
+	<div class="top_discowrap album_margin ssswrap">
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png" class="top_album_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss2x.png 2x" class="top_album_back"></noscript></noscript>
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png" class="top_album_back move_sss lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png" class="top_album_back move_sss lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_sss_move2x.png 2x" class="top_album_back move_sss"></noscript></noscript>
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x" class="top_kuwasiku"></noscript></noscript></noscript></noscript></noscript>
+
+
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_sss.jpg" class="top_jak sss lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_sss.jpg" class="top_jak sss lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_sss.jpg" class="top_jak sss"></noscript></noscript>
+		<span class="top_album_s">Acousticミニアルバム(2017)</span>
+		<span class="top_album_title">「SLEEP SHEEP SUNROOM」</span>
+
+	</div>
+
+
+	<div class="top_discowrap album_margin album_bottom benwrap">
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben.png" class="top_album_back ben_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben2x.png 2x" class="top_album_back ben_back"></noscript>
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" class="top_kuwasiku top_kuwasiku_last lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/kuwasiku2x.png 2x" class="top_kuwasiku top_kuwasiku_last"></noscript>
+
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png" class="top_album_back move_ben lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png" class="top_album_back move_ben lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/back_ben_move2x.png 2x" class="top_album_back move_ben"></noscript></noscript>
+
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ben.jpg" class="top_jak ben lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ben.jpg" class="top_jak ben"></noscript>
+		<span class="top_album_s ben_s">1stフルアルバム(2016)</span>
+		<span class="top_album_title ben_title">「BLUE ENDING NOVA」</span>
+
+	</div>
+</div>
+
+<div id="series"></div>
+<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_logo.png" class="top_m_series lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_logo.png" class="top_m_series"></noscript><br>
+
+<div class="s_bnr_wrap">
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_bnr_1.jpg" class="s_s_ftrwrap s_bnr lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_bnr_1.jpg" class="s_s_ftrwrap s_bnr"></noscript>
+</div>
+	<br>
+
+<div class="s_bnr_wrap">
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_bnr_2.jpg" class="s_s_gnewrap s_bnr lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_bnr_2.jpg" class="s_s_gnewrap s_bnr"></noscript>
+</div>
+
+<br>
+</div>
+
+<br><br><br><br>
+
+
+
+
+
+
+
+<!-- popup -->
+<div class="top_popup top_popup_otg">
+</div>
+
+
+<div class="top_popup_in in_otg">
+
+	<span class="top_popup_s">10th Anniversary Album(2024)</span>
+	<span class="top_popup_title">おとぎの銀河団</span>
+
+	<a href="https://harumakigohan.com/10" target="_blank">
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x" class="top_site"></noscript></noscript></noscript></noscript></noscript></noscript>
+	</a>
+
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_otg.jpg" class="top_popup_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_otg.jpg" class="top_popup_jak"></noscript>
+	<li class="top_popup_catch">おとぎ話を信じようと願う心　それこそがイノセンスだ。</li>
+	<span class="top_popup_text">活動10年の節目に制作したフルアルバム。Complete Gift Box盤にはおとぎの銀河の住人たちからの”10の贈り物”を封入。漫画「おとぎの銀河団」は、これまでの楽曲のキャラクター達のはじまりの物語を描く。収録曲は「ゼロトーキング」「エンパープル」「月光」など。</span>
+	<div class="top_storewrap">
+		<a href="https://amzn.asia/d/37G5Bjz" target="_blank"><div class="top_store_otg">Amazon</div></a>
+		<a href="https://tower.jp/item/6398241?srsltid=AfmBOorZGJrVeViNOQ8JEK7bRD4hhM6pDqUmQaJB6vUCgVdy6-5DawDU" target="_blank"><div class="top_store_otg">TOWER RECORDS</div></a>
+		<a href="https://official-goods-store.jp/harumakigohan/v2/product/detail/HMG053" target="_blank"><div class="top_store_otg">オフィシャルグッズストア</div></a>
+	</div>
+</div>
+
+<div class="close-triggerwrap close-triggerwrap-otg">
+	<div class="close-trigger">
+	  <span></span>
+	  <span></span>
+	</div>
+</div>
+
+
+
+
+
+
+<div class="top_popup top_popup_gne">
+</div>
+
+
+<div class="top_popup_in in_gne">
+
+	<span class="top_popup_s">4thフルアルバム(2022)</span>
+	<span class="top_popup_title">幻影EP-Envy Phantom-</span>
+
+	<a href="https://harumakigohan.com/gnep" target="_blank">
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x" class="top_site"></noscript></noscript></noscript></noscript></noscript></noscript>
+	</a>
+
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_gne.png" class="top_popup_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_gne.png" class="top_popup_jak"></noscript>
+	<li class="top_popup_catch">みかげの心を描く物語</li>
+	<span class="top_popup_text">内気な主人公みかげとその友人たちの物語を描いた、幻影シリーズのうちの一作品。主人公みかげの心情を一貫して描いた「幻影」「蛍はいなかった」「第三の心臓」など全15曲収録の楽曲群と、漫画と絵本を用いてはるまきごはんが描き下ろしたA5ストーリー&アートブックを封入。</span>
+	<div class="top_storewrap">
+		<a href="https://www.amazon.co.jp/%E5%B9%BB%E5%BD%B1EP-Envy-Phantom-A5%E3%83%96%E3%83%83%E3%82%AF%E4%BB%98%E3%81%8D%E7%89%B9%E8%A3%85%E7%89%88-%E3%81%AF%E3%82%8B%E3%81%BE%E3%81%8D%E3%81%94%E3%81%AF%E3%82%93/dp/B09VY4QN1F/ref=tmm_acd_title_0?_encoding=UTF8&qid=1648892774&sr=1-1-catcorr" target="_blank"><div class="top_store_gne">Amazon</div></a>
+		<a href="https://tower.jp/item/5385893/%E5%B9%BB%E5%BD%B1EP--Envy-Phantom--%5bCD%EF%BC%8BDVD%EF%BC%8BA5%E3%82%A2%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF%5d%EF%BC%9CA5%E3%83%96%E3%83%83%E3%82%AF%E4%BB%98%E3%81%8D%E7%89%B9%E8%A3%85%E7%89%88%EF%BC%9E" target="_blank"><div class="top_store_gne">TOWER RECORDS</div></a>
+		<a href="https://official-goods-store.jp/harumakigohan/v2/product/detail/HMG024" target="_blank"><div class="top_store_gne">オフィシャルグッズストア</div></a>
+	</div>
+</div>
+
+<div class="close-triggerwrap close-triggerwrap-gne">
+	<div class="close-trigger">
+	  <span></span>
+	  <span></span>
+	</div>
+</div>
+
+
+
+
+
+
+<div class="top_popup top_popup_ftr">
+</div>
+
+
+<div class="top_popup_in in_ftr">
+
+	<span class="top_popup_s">NEWフルアルバム(2020)</span>
+	<span class="top_popup_title">ふたりの</span>
+
+	<a href="https://harumakigohan.com/ftr" target="_blank">
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x" class="top_site"></noscript></noscript></noscript></noscript></noscript></noscript>
+	</a>
+
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ftr.jpg" class="top_popup_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ftr.jpg" class="top_popup_jak"></noscript>
+	<li class="top_popup_catch">運命のふたりの物語</li>
+	<span class="top_popup_text">「再会」から始まった"ふたりの"主人公をテーマにした物語の楽曲がひとつになったフルアルバム&アートBOX。ふたりの主人公の物語を描いた「再会」「約束」「秘密」などの楽曲群それぞれのはるまきごはん歌唱verとVOCALOIDverを合わせた全22曲収録。SNOW MIKU2020テーマソング「ぽかぽかの星」も。</span>
+	<div class="top_storewrap">
+		<a href="https://www.amazon.co.jp/dp/B08BF44G1Y/ref=cm_sw_r_tw_dp_Z77V0B5230FKW3SJGN9D" target="_blank"><div class="top_store_ftr">Amazon</div></a>
+		<a href="https://tower.jp/item/5064867/%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE-%5b2CD%EF%BC%8BDVD%EF%BC%8B%E3%82%A2%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF%5d%EF%BC%9C%E5%88%9D%E5%9B%9E%E7%94%9F%E7%94%A3%E9%99%90%E5%AE%9A%E7%9B%A4%EF%BC%9E" target="_blank"><div class="top_store_ftr">TOWER RECORDS</div></a>
+		<a href="https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%80%91%E3%81%AF%E3%82%8B%E3%81%BE%E3%81%8D%E3%81%94%E3%81%AF%E3%82%93/%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE+%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%9B%A4/pd/1814705/" target="_blank"><div class="top_store_ftr">アニメイト</div></a>
+	</div>
+</div>
+
+<div class="close-triggerwrap close-triggerwrap-ftr">
+	<div class="close-trigger">
+	  <span></span>
+	  <span></span>
+	</div>
+</div>
+
+
+
+
+
+
+
+<div class="top_popup top_popup_ndt">
+</div>
+
+
+<div class="top_popup_in in_ndt">
+
+	<span class="top_popup_s">2ndフルアルバム(2018)</span>
+	<span class="top_popup_title">ネオドリームトラベラー</span>
+
+	<a href="http://harumakigohan.com/ndt" target="_blank">
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x" class="top_site"></noscript></noscript></noscript></noscript></noscript></noscript>
+	</a>
+
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ndt.jpg" class="top_popup_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ndt.jpg" class="top_popup_jak"></noscript>
+	<li class="top_popup_catch">あの日の夢の続きは、私だけが知っている</li>
+	<span class="top_popup_text">「ドリームレス・ドリームス」から始まった『夢』というテーマのはるまきごはん楽曲群をひとまとめにしたマルチジャンルなフルアルバム。初回限定盤には世界観設定アートブックや、MV集 DVDが同梱。収録曲は「ドリームレス・ドリームス」「メルティランドナイトメア」「アスター」「セブンティーナ 」「コバルトメモリーズ」など全15曲。</span>
+	<div class="top_storewrap">
+		<a href="https://www.amazon.co.jp/dp/B07JJY7PWM/ref=cm_sw_r_tw_dp_U_x_nNY.Cb7EB9G94" target="_blank"><div class="top_store_ndt">Amazon</div></a>
+		<a href="https://tower.jp/item/4822146" target="_blank"><div class="top_store_ndt">TOWER RECORDS</div></a>
+		<a href="https://www.animate-onlineshop.jp/pn/%E3%80%90%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%80%91%E3%81%AF%E3%82%8B%E3%81%BE%E3%81%8D%E3%81%94%E3%81%AF%E3%82%93/%E3%83%8D%E3%82%AA%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%88%E3%83%A9%E3%83%99%E3%83%A9%E3%83%BC+%E5%88%9D%E5%9B%9E%E7%94%9F%E7%94%A3%E9%99%90%E5%AE%9A%E7%9B%A4/pd/1583064/" target="_blank"><div class="top_store_ndt">アニメイト</div></a>
+	</div>
+</div>
+
+<div class="close-triggerwrap close-triggerwrap-ndt">
+	<div class="close-trigger">
+	  <span></span>
+	  <span></span>
+	</div>
+</div>
+
+
+
+
+
+
+<div class="top_popup top_popup_sss">
+</div>
+
+
+<div class="top_popup_in in_sss">
+	<span class="top_popup_s">Acousticミニアルバム(2017)</span>
+	<span class="top_popup_title">SLEEP SHEEP SUNROOM</span>
+
+	<!--<a href="http://harumakigohan.com/sss" target="_blank">
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x" class="top_site"></noscript></noscript></noscript></noscript></noscript></noscript>
+	</a>-->
+
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_sss.jpg" class="top_popup_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_sss.jpg" class="top_popup_jak"></noscript>
+	<span class="top_popup_text">
+		<li class="top_popup_catch"></li>
+		優しくどこか切ない、はるまきごはんのアコースティックな楽曲を集めた寝る前のおともの決定盤。収録曲は「ドリームレス・ドリームス（アコースティックアレンジ）」「Marine Grey」など全8曲。
+	</span>
+	<div class="top_storewrap">
+		<a href="https://www.amazon.co.jp/dp/B078FHCYM1/ref=cm_sw_r_tw_dp_U_x_xui-CbPP33MNN" target="_blank"><div class="top_store_sss">Amazon</div></a>
+		<!-- <a href="https://tower.jp/item/4484485/BLUE-ENDING-NOVA" target="_blank"><div class="top_store_sss">TOWER RECORDS</div></a> -->
+		<a href="https://www.animate-onlineshop.jp/pn/%E3%80%90%E5%90%8C%E4%BA%BACD%E3%80%91%E3%81%AF%E3%82%8B%E3%81%BE%E3%81%8D%E3%81%94%E3%81%AF%E3%82%93/SLEEP+SHEEP+SUNROOM/pd/1506059/" target="_blank"><div class="top_store_sss">アニメイト</div></a>
+	</div>
+</div>
+
+<div class="close-triggerwrap close-triggerwrap-sss">
+	<div class="close-trigger">
+	  <span></span>
+	  <span></span>
+	</div>
+</div>
+
+
+
+<div class="top_popup top_popup_ben">
+</div>
+
+<div class="top_popup_in in_ben">
+	<span class="top_popup_s">1stフルアルバム(2016)</span>
+	<span class="top_popup_title">BLUE ENDING NOVA</span>
+
+	<a href="http://nova999.webcrow.jp/" target="_blank">
+		<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" class="top_site lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/site.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/site2x.png 2x" class="top_site"></noscript></noscript></noscript></noscript></noscript></noscript>
+	</a>
+
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ben.jpg" class="top_popup_jak lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/jak_ben.jpg" class="top_popup_jak"></noscript>
+	<span class="top_popup_text">
+	<li class="top_popup_catch"></li>
+	「銀河録」をはじめ、宇宙へ旅立つ彗星をテーマにしたはるまきごはん1stフルアルバム。幻想的なオルタナティブロックを中心に、時にはエレクトロチューンまで。収録曲は「銀河録」「カルデネ」「フォトンブルー」など全13曲。</span>
+
+	<div class="top_storewrap">
+		<a href="https://www.amazon.co.jp/dp/B06XYFTB3V/ref=cm_sw_r_tw_dp_U_x_MP1.CbXAADNX3" target="_blank"><div class="top_store_ben">Amazon</div></a>
+		<a href="https://tower.jp/item/4484485/BLUE-ENDING-NOVA" target="_blank"><div class="top_store_ben">TOWER RECORDS</div></a>
+		<a href="https://www.animate-onlineshop.jp/pd/1453359/" target="_blank"><div class="top_store_ben">アニメイト</div></a>
+	</div>
+</div>
+
+<div class="close-triggerwrap close-triggerwrap-ben">
+	<div class="close-trigger">
+	  <span></span>
+	  <span></span>
+	</div>
+</div>
+
+
+
+
+
+
+<div class="top_popup_1 top_popup_s_ftr">
+</div>
+
+<div class="top_popup_in_2 in_s_ftr">
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftr_chara.png" class="ftr_chara lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftr_chara.png" class="ftr_chara"></noscript>
+	<div class="ftr_text"><span class="s_title">「ふたりの」</span>シリーズ(2020)<br>遠く離れたとある星に暮らすナナとリリという”ふたりの”
+	主人公の物語を描いたシリーズ。機械のような姿の「大人」
+	たちに囲まれて暮らすナナは、幼い頃に離れ離れになった
+	リリとの再会を夢見ながら、終末の近い星で未来を憂う。</div>
+
+	<div class="ftr_list">
+		<div class="sl">SONG LIST</div>
+		ふたりの<br>
+		約束<br>
+		秘密<br>
+		ナナ<br>
+		リリ<br>
+		彗星になれたなら<br>
+		夜魔<br>
+		再会<br>
+		結論 - instrumental
+	</div>
+
+	<div class="storyline">
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/storyline.png" class="storyline_logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/storyline.png" class="storyline_logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/storyline.png" class="storyline_logo"></noscript></noscript>
+		<div class="sl_wrap">
+			MV+楽曲
+			<div class="sl_wrap_inner">
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftrmv1.jpg" class="s_mv lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftrmv1.jpg" class="s_mv"></noscript>
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftrmv2.jpg" class="s_mv lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftrmv2.jpg" class="s_mv"></noscript>
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftrmv3.jpg" class="s_mv lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftrmv3.jpg" class="s_mv"></noscript>
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftrmv4.jpg" class="s_mv lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ftrmv4.jpg" class="s_mv"></noscript>
+			</div>
+		</div>
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow_2.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow_2.png" class="s_arrow"></noscript>
+
+		<div class="ab_wrap">
+			<div class="ab_wrap_inner">
+				フルアルバム<br>
+				「ふたりの」アートブック
+			</div>
+			<div class="sl_wrap_ab">
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/artbook.png" class="s_ab lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/artbook.png" class="s_ab"></noscript>
+			</div>
+		</div>
+
+		<div class="s_tokusetsu">
+			特設サイトへ行く<a href="https://harumakigohan.com/ftr" target="_blank" class="s_tokusetsu_link"></a>
+		</div>
+		
+	</div>
+	</div>
+</div>
+
+<div class="close-triggerwrap close-triggerwrap-s-ftr">
+	<div class="close-trigger">
+	  <span></span>
+	  <span></span>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+<div class="top_popup_2 top_popup_s_gne">
+</div>
+
+<div class="top_popup_in_2 in_s_gne">
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/gne_logo.png" class="gne_logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/gne_logo.png" class="gne_logo"></noscript><br>
+	<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/gne_chara.png" class="gne_chara lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/gne_chara.png" class="gne_chara"></noscript>
+	<div class="gne_text"><span class="s_title">「幻影」</span>シリーズ(2022)<br>内気な主人公みかげとその友人たちの物語。クラスで友達の少ないみかげは、毎朝スピカという女の子に話しかけられる。スピカともっと仲良くなりたいと願うみかげだったが、不器用がゆえにす違い、そのまま時間が経ってしまう…。</div>
+
+	<div class="gne_list">
+		<div class="sl">SONG LIST</div>
+		幻影<br>
+		蛍はいなかった<br>
+		仮定した夏<br>
+		メサイア<br>
+		みかげ日記<br>
+		第三の心臓<br>
+		Phantom Spring<br>
+		Desdemona(Instrumental)<br>
+	</div>
+
+	<div class="storyline">
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/storyline.png" class="storyline_logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/storyline.png" class="storyline_logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/storyline.png" class="storyline_logo"></noscript></noscript>
+		<div class="sl_wrap">
+			MV+楽曲
+			<div class="sl_wrap_inner">
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/gne_mv1.jpg" class="s_mv lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/gne_mv1.jpg" class="s_mv"></noscript>
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/gne_mv2.jpg" class="s_mv lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/gne_mv2.jpg" class="s_mv"></noscript>
+			</div>
+		</div>
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow"></noscript></noscript></noscript>
+
+		<div class="ap_wrap">
+			<div class="ap_wrap_inner">
+				スマホゲーム<br>
+				「幻影AP~空っぽの心臓~」
+			</div>
+			<div class="sl_wrap_ap">
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ap.png" class="s_ap lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ap.png" class="s_ap"></noscript>
+			</div>
+		</div>
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow"></noscript></noscript></noscript>
+
+		<div class="ap_wrap">
+			<div class="ap_wrap_in">
+			フルアルバム<br>
+			「幻影EP-Envy Phantom-」<br>
+			ブックレット内漫画「幻影」
+			</div>
+			<div class="s_ep">
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ep.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/ep.png" class=""></noscript>
+			</div>
+		</div>
+
+		<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/s_arrow.png" class="s_arrow"></noscript></noscript></noscript>
+
+		<div class="ap_wrap">
+			<div class="lv_wrap_in">
+			ワンマンライブ<br>
+			「幻影LV」<br>
+			アーカイブムービー
+			</div>
+			<div class="s_lv">
+				<img   data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/lv.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/lv.jpg" class=""></noscript>
+			</div>
+		</div>
+
+		<div class="s_tokusetsu">
+			特設サイトへ行く<a href="https://harumakigohan.com/gnep" target="_blank" class="s_tokusetsu_link"></a>
+		</div>
+		
+	</div>
+	</div>
+</div>
+
+<div class="close-triggerwrap close-triggerwrap-s-gne">
+	<div class="close-trigger">
+	  <span></span>
+	  <span></span>
+	</div>
+</div>
+
+
+
+
+
+
+
+		
+<!-- footer -->
+
+
+
+<div class="footerwrap">
+	<img  data-srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/footer.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/footer2x.png 2x"  data-src="https://harumakigohan.com/wp-content/themes/gohantheme/img/footer.png" class="footer_back lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://harumakigohan.com/wp-content/themes/gohantheme/img/footer.png" srcset="https://harumakigohan.com/wp-content/themes/gohantheme/img/footer.png 1x,https://harumakigohan.com/wp-content/themes/gohantheme/img/footer2x.png 2x" class="footer_back"></noscript>
+
+	<div class="cr">HARUMAKI GOHAN</div>
+</div>
+
+<!-- /footer -->
+		<script type='text/javascript' src='https://harumakigohan.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.8.2'></script>
+<script type='text/javascript' src='https://harumakigohan.com/wp-includes/js/wp-embed.min.js?ver=5.2.21'></script>
+	</body>
+
+
+</html>
