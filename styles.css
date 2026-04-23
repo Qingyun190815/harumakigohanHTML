@@ -345,7 +345,7 @@ p { margin: 0; }
 }
 
 .top_arrow_img {
-  margin: 120px 0 0 0 ;
+  /* margin: 120px 0 0 0 ; */
   display: block;
   width: 100%;
   height: auto;

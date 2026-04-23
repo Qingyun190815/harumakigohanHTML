@@ -195,9 +195,16 @@
   // ── Set arrow wrap heights to match jacket area ──
   function setArrowHeights() {
     if (!jacketOuter) return;
+    var rect = jacketOuter.getBoundingClientRect();
     var h = jacketOuter.offsetHeight;
-    if (arrowLWrap) arrowLWrap.style.height = h + "px";
-    if (arrowRWrap) arrowRWrap.style.height = h + "px";
+    if (arrowLWrap) {
+      arrowLWrap.style.top = rect.top + 50 + "px";
+      arrowLWrap.style.height = h + 50 + "px";
+    }
+    if (arrowRWrap) {
+      arrowRWrap.style.top = rect.top + 50 + "px";
+      arrowRWrap.style.height = h + 50 + "px";
+    }
   }
 
   // ── Intro animation helper ───────────────
