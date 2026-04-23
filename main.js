@@ -14,6 +14,7 @@
   var topRelease  = document.getElementById("topRelease");
   var topIconWrap = document.getElementById("topIconWrap");
   var topHaguruma = document.getElementById("topHaguruma");
+  var topAnother  = document.getElementById("topAnother");
   var backWrap    = document.getElementById("topBackWrap");
   var arrowLWrap  = document.getElementById("arrowLWrap");
   var arrowRWrap  = document.getElementById("arrowRWrap");
@@ -22,6 +23,12 @@
   var backDivs    = backWrap ? backWrap.children : []; // 4 backgrounds
   var REAL_SLIDE_COUNT = 4;
   var VISIBLE_SLOT_COUNT = 5;
+  var slideCaptions = {
+    1: "",
+    2: '"秘密"さしかえアナザージャケット',
+    3: '"約束"さしかえアナザージャケット',
+    4: '"彗星になれたなら"さしかえアナザージャケット'
+  };
 
   // ── Slider state ─────────────────────────
   var currentIndex = 1;
@@ -89,6 +96,13 @@
     }
   }
 
+  function updateSlideCaption(realIndex) {
+    if (!topAnother) return;
+    var caption = slideCaptions[realIndex] || "";
+    topAnother.textContent = caption;
+    topAnother.classList.toggle("is-visible", caption !== "");
+  }
+
   function updateCurrentIndex(direction) {
     currentIndex += direction;
     if (currentIndex > REAL_SLIDE_COUNT) currentIndex = 1;
@@ -112,6 +126,7 @@
 
     updateCurrentIndex(1);
     switchBackground(currentIndex);
+    updateSlideCaption(currentIndex);
 
     firstSlide.style.transition = "margin-left " + ANIM_DURATION + "ms cubic-bezier(0.215, 0.61, 0.355, 1)";
     firstSlide.style.marginLeft = shift + "px";
@@ -142,6 +157,7 @@
 
     updateCurrentIndex(-1);
     switchBackground(currentIndex);
+    updateSlideCaption(currentIndex);
 
     lastSlide.style.transition = "margin-right " + ANIM_DURATION + "ms cubic-bezier(0.215, 0.61, 0.355, 1)";
     lastSlide.style.marginRight = shift + "px";
@@ -217,6 +233,7 @@
     // Position slider immediately (no animation)
     rebuildSlider();
     switchBackground(currentIndex);
+    updateSlideCaption(currentIndex);
     setArrowHeights();
 
     // === Intro sequence (matching reference site timing) ===
@@ -240,11 +257,9 @@
       }
     }, 2800);
 
-    // 4. Arrows fade in (2800ms)
-    setTimeout(function () {
-      if (arrowL) arrowL.style.display = "block";
-      if (arrowR) arrowR.style.display = "block";
-    }, 2800);
+    // 4. Arrows stay visible immediately after load
+    if (arrowL) arrowL.style.opacity = "1";
+    if (arrowR) arrowR.style.opacity = "1";
 
     // 5. Release + icon fade in (3100ms)
     setTimeout(function () {
