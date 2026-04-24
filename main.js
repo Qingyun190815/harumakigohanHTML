@@ -369,6 +369,7 @@
 
   if (bookPages) {
     var pages = bookPages.querySelectorAll(".page");
+    var TOTAL_PAGES = pages.length;
     var pageTexts = [
       null,
       document.querySelector(".page_text1"),
@@ -380,16 +381,79 @@
       document.querySelector(".page_text7"),
     ];
 
-    // Map page index to text index
-    var pageTextMap = [1, 0, 2, 1, 3, 2, 4, 3, 5, 4, 6, 5];
+    var pageTextMap = [2, 1, 3, 2, 4, 3, 5, 4, 6, 5, 7, 6];
+
+    var bookAnimating = false;
+
+    function updateZIndices() {
+      for (var i = 0; i < pages.length; i++) {
+        var n = i + 1;
+        if (pages[i].classList.contains("flipped")) {
+          // Flipped pages on the left: higher page numbers on top
+          pages[i].style.zIndex = n;
+        } else {
+          // Unflipped pages on the right: lower page numbers on top
+          pages[i].style.zIndex = TOTAL_PAGES + 1 - n;
+        }
+      }
+    }
+
+    updateZIndices();
 
     for (var i = 0; i < pages.length; i++) {
       (function (idx) {
         pages[idx].addEventListener("click", function () {
-          this.classList.add("flipped");
+          if (bookAnimating) return;
+
+          var n = idx + 1;
+
+          if (n % 2 === 1) {
+            // Odd page (right side) — flip forward
+            if (!this.classList.contains("flipped")) {
+              bookAnimating = true;
+              // Boost z-index during animation so flipping page stays on top
+              this.style.zIndex = TOTAL_PAGES + 10;
+              if (idx + 1 < pages.length) {
+                pages[idx + 1].style.zIndex = TOTAL_PAGES + 9;
+              }
+
+              this.classList.add("flipped");
+              // Also flip the paired even page (back of the same sheet)
+              if (idx + 1 < pages.length) {
+                pages[idx + 1].classList.add("flipped");
+              }
+
+              setTimeout(function () {
+                updateZIndices();
+                bookAnimating = false;
+              }, 1500);
+            }
+          } else {
+            // Even page (left side) — flip backward
+            if (this.classList.contains("flipped")) {
+              bookAnimating = true;
+              // Boost z-index during animation
+              this.style.zIndex = TOTAL_PAGES + 10;
+              if (idx - 1 >= 0) {
+                pages[idx - 1].style.zIndex = TOTAL_PAGES + 9;
+              }
+
+              this.classList.remove("flipped");
+              // Also un-flip the paired odd page (front of the same sheet)
+              if (idx - 1 >= 0) {
+                pages[idx - 1].classList.remove("flipped");
+              }
+
+              setTimeout(function () {
+                updateZIndices();
+                bookAnimating = false;
+              }, 1500);
+            }
+          }
+
+          // Update text
           var textIdx = pageTextMap[idx];
           if (textIdx !== undefined && pageTexts[textIdx]) {
-            // Hide all texts, show the matching one
             for (var t = 0; t < pageTexts.length; t++) {
               if (pageTexts[t]) pageTexts[t].style.display = "none";
             }
