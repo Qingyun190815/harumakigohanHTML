@@ -330,6 +330,30 @@
     setTimeout(checkFadeElements, 200);
   });
 
+  // ── Lazy-load iframes (YouTube etc.) ─────
+  var lazyIframes = document.querySelectorAll("iframe[data-src]");
+  if ("IntersectionObserver" in window) {
+    var iframeObserver = new IntersectionObserver(function (entries) {
+      for (var i = 0; i < entries.length; i++) {
+        if (entries[i].isIntersecting) {
+          var iframe = entries[i].target;
+          iframe.src = iframe.getAttribute("data-src");
+          iframe.removeAttribute("data-src");
+          iframeObserver.unobserve(iframe);
+        }
+      }
+    }, { rootMargin: "200px" });
+    for (var i = 0; i < lazyIframes.length; i++) {
+      iframeObserver.observe(lazyIframes[i]);
+    }
+  } else {
+    // Fallback: load all immediately
+    for (var i = 0; i < lazyIframes.length; i++) {
+      lazyIframes[i].src = lazyIframes[i].getAttribute("data-src");
+      lazyIframes[i].removeAttribute("data-src");
+    }
+  }
+
   // ── Modal handlers ───────────────────────
   function setupModal(triggerSel, modalId, imgId, imgOnClass) {
     var triggers = document.querySelectorAll(triggerSel);
@@ -340,6 +364,15 @@
       triggers[i].addEventListener("click", function () {
         if (modal) modal.style.display = "block";
         if (img && imgOnClass) img.classList.add(imgOnClass);
+        // Lazy-load modal background images on first open
+        if (modal) {
+          var bgEls = modal.querySelectorAll("[data-bg]");
+          for (var j = 0; j < bgEls.length; j++) {
+            if (!bgEls[j].style.backgroundImage) {
+              bgEls[j].style.backgroundImage = "url(" + bgEls[j].getAttribute("data-bg") + ")";
+            }
+          }
+        }
       });
     }
 

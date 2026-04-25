@@ -17,7 +17,7 @@ body {
   font-size: 13px;
   line-height: 1.8em;
   letter-spacing: 0.05em;
-  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "Yu Mincho", "Times New Roman", serif;
+  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "Yu Mincho", "Times New Roman", Georgia, serif;
   text-align: center;
   overflow-x: hidden;
 }
@@ -1090,9 +1090,9 @@ p { margin: 0; }
   }
 }
 
-.modal_lili_bg { background-position: left top; background-image: url("./assets/lili_bg.png"); }
-.modal_nana_bg { background-position: right top; background-image: url("./assets/nana_bg.png"); }
-.modal_macaron_bg { background-position: right top; background-image: url("./assets/macaron_bg.png"); }
+.modal_lili_bg { background-position: left top; }
+.modal_nana_bg { background-position: right top; }
+.modal_macaron_bg { background-position: right top; }
 
 .modal_width_lili, .modal_width_nana, .modal_width_macaron, .modal_width_gohan {
   position: absolute;

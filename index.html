@@ -8,7 +8,13 @@
   <meta property="og:image" content="./assets/img.png" />
   <meta name="description" content="はるまきごはんNewアルバム「ふたりの」特設サイト">
   <link rel="shortcut icon" type="image/x-icon" href="./assets/favicon.ico">
+  <link rel="preload" href="./styles.css" as="style">
+  <link rel="preload" href="./main.js" as="script">
+  <link rel="preload" href="./assets/top_back.png" as="image">
+  <link rel="preconnect" href="https://www.youtube.com">
+  <link rel="preconnect" href="https://www.youtube-nocookie.com" crossorigin>
   <link rel="stylesheet" href="./styles.css" />
+  <style>.loading{position:fixed;top:0;width:100%;height:100%;background-color:#226bf3;z-index:200;display:flex;justify-content:center;align-items:center;color:#fff;font-size:16px;letter-spacing:0.2em;transition:opacity 0.6s ease}.loading--hidden{opacity:0;pointer-events:none}</style>
 </head>
 <body>
 
@@ -32,15 +38,15 @@
 
       <div class="top_jacket_wrap_wrap" id="jacketWrapWrap">
         <div class="top_jacket_wrap" id="jacketWrap">
-          <div class="top_jacket_item" data-index="1"><img src="./assets/jacket1.png" class="top_jacket_img" alt="FUTARINO package artwork"></div><!--
-          --><div class="top_jacket_item" data-index="2"><img src="./assets/jacket2.png" class="top_jacket_img" alt=""></div><!--
-          --><div class="top_jacket_item" data-index="3"><img src="./assets/jacket3.png" class="top_jacket_img" alt=""></div><!--
-          --><div class="top_jacket_item" data-index="4"><img src="./assets/jacket4.png" class="top_jacket_img" alt=""></div>
+          <div class="top_jacket_item" data-index="1"><img src="./assets/jacket1.png" class="top_jacket_img" alt="FUTARINO package artwork" width="1000" height="880"></div><!--
+          --><div class="top_jacket_item" data-index="2"><img src="./assets/jacket2.png" class="top_jacket_img" alt="" width="1000" height="879"></div><!--
+          --><div class="top_jacket_item" data-index="3"><img src="./assets/jacket3.png" class="top_jacket_img" alt="" width="1000" height="879"></div><!--
+          --><div class="top_jacket_item" data-index="4"><img src="./assets/jacket4.png" class="top_jacket_img" alt="" width="1231" height="1082"></div>
         </div>
         <span class="top_another top_another_overlay" id="topAnother" aria-live="polite">
           "秘密"さしかえアナザージャケット
         </span>
-        <div class="top_jacket_clear"><img src="./assets/jacket_clear.png" class="top_jacket_img" alt=""></div>
+        <div class="top_jacket_clear"><img src="./assets/jacket_clear.png" class="top_jacket_img" alt="" width="1400" height="1230"></div>
       </div>
 
       <img src="./assets/effect.png" class="top_effect" id="topEffect" alt="">
@@ -78,13 +84,13 @@
 
       <div class="top_jacket2_wrap fade">
         <div class="jacket_s">
-          <img src="./assets/shokai.png" alt="初回盤">
+          <img src="./assets/shokai.png" alt="初回盤" loading="lazy">
           <span class="jacket_bar"><span class="jacket_bar_inner">&nbsp;初回盤</span></span>
           <a href="#shokai"><span class="pink underline">アルバム＆アートBOX</span></a>
           <span class="jacket_price">2CD+1DVD+アートブック<br class="sp">＋さしかえアナザージャケット<br>＋スペシャル透明スリーブ<br>3900円+税</span>
         </div><!--
         --><div class="jacket_t">
-          <img src="./assets/tsuujou.png" alt="通常盤">
+          <img src="./assets/tsuujou.png" alt="通常盤" loading="lazy">
           <span class="jacket_bar"><span class="jacket_bar_inner">&nbsp;通常盤</span></span>
           <span class="jacket_price">2CD<br>2300円+税</span>
         </div>
@@ -92,7 +98,7 @@
 
       <div class="cf_width">
         <div class="cf_wrap">
-          <iframe src="https://www.youtube.com/embed/dBviac7g2b0" class="cf fade" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe data-src="https://www.youtube.com/embed/dBviac7g2b0" class="cf fade" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
 
@@ -103,8 +109,8 @@
     <!-- ===== 3D SHOWCASE ===== -->
     <div class="threed_wrap">
       <div class="threed_width">
-        <img src="./assets/3d.png" class="threed_3d fade" alt="3D product">
-        <img src="./assets/3d_sp.png" class="threed_3d_sp fade" alt="3D product">
+        <img src="./assets/3d.png" class="threed_3d fade" alt="3D product" loading="lazy">
+        <img src="./assets/3d_sp.png" class="threed_3d_sp fade" alt="3D product" loading="lazy">
 
         <div class="threed_text_1 fade">
           <span class="threed_text_midashi">「ふたりの」透明スリーブ</span><br>
@@ -190,12 +196,12 @@
           </div>
         </div>
 
-        <div class="list_nana fade_nana"><img src="./assets/nana.gif"></div>
-        <div class="list_lili fade_lili"><img src="./assets/lili.gif"></div>
-        <div class="list_macaron fade_50per"><img src="./assets/macaron.gif"></div>
+        <div class="list_nana fade_nana"><img src="./assets/nana.gif" loading="lazy"></div>
+        <div class="list_lili fade_lili"><img src="./assets/lili.gif" loading="lazy"></div>
+        <div class="list_macaron fade_50per"><img src="./assets/macaron.gif" loading="lazy"></div>
 
-        <span class="list_name list_name_nana fade"><img src="./assets/list_arrow_l.png" class="list_arrow_l">&nbsp;NANA <span class="list_tap">Tap Image</span></span>
-        <span class="list_name list_name_lili fade">LILI <span class="list_tap">Tap Image</span>&nbsp;<img src="./assets/list_arrow_r.png" class="list_arrow_r"></span>
+        <span class="list_name list_name_nana fade"><img src="./assets/list_arrow_l.png" class="list_arrow_l" loading="lazy">&nbsp;NANA <span class="list_tap">Tap Image</span></span>
+        <span class="list_name list_name_lili fade">LILI <span class="list_tap">Tap Image</span>&nbsp;<img src="./assets/list_arrow_r.png" class="list_arrow_r" loading="lazy"></span>
       </div>
     </div>
 
@@ -210,7 +216,7 @@
             Music / Illust / Animation<br>好きなもの：ばあちゃんち
           </div>
         </div>
-        <img src="./assets/icon.png" class="modal_gohan_img" id="modalGohanImg">
+        <img src="./assets/icon.png" class="modal_gohan_img" id="modalGohanImg" loading="lazy">
       </div>
     </div>
 
@@ -218,7 +224,7 @@
       <div class="modal_bg"></div>
       <div class="modal_width_nana">
         <div class="modal_nana_frame">
-          <div class="modal_nana_bg"></div>
+          <div class="modal_nana_bg" data-bg="./assets/nana_bg.png"></div>
           <div class="modal_frame_inner">
             <span class="modal_name">ナナ</span>&nbsp;-&nbsp;NANA<br>
             真面目で努力家だけど<br class="sp">上手く行かない事が多い<br>
@@ -226,7 +232,7 @@
             好きなもの：夜
           </div>
         </div>
-        <img src="./assets/nana.gif" class="modal_nana_img" id="modalNanaImg">
+        <img src="./assets/nana.gif" class="modal_nana_img" id="modalNanaImg" loading="lazy">
       </div>
     </div>
 
@@ -234,7 +240,7 @@
       <div class="modal_bg"></div>
       <div class="modal_width_lili">
         <div class="modal_lili_frame">
-          <div class="modal_lili_bg"></div>
+          <div class="modal_lili_bg" data-bg="./assets/lili_bg.png"></div>
           <div class="modal_frame_inner">
             <span class="modal_name">リリ</span>&nbsp;-&nbsp;LILI<br>
             わりとなんでも<br class="sp">こなしてしまう天才肌<br>
@@ -242,7 +248,7 @@
             好きなもの：おにぎり
           </div>
         </div>
-        <img src="./assets/lili.gif" class="modal_lili_img" id="modalLiliImg">
+        <img src="./assets/lili.gif" class="modal_lili_img" id="modalLiliImg" loading="lazy">
       </div>
     </div>
 
@@ -250,7 +256,7 @@
       <div class="modal_bg"></div>
       <div class="modal_width_macaron">
         <div class="modal_macaron_frame">
-          <div class="modal_macaron_bg"></div>
+          <div class="modal_macaron_bg" data-bg="./assets/macaron_bg.png"></div>
           <div class="modal_frame_inner">
             <span class="modal_name">マカロン</span>&nbsp;-&nbsp;MACARON<br>
             ナナの部屋をお掃除し続けてきたお掃除ロボ<br>
@@ -258,7 +264,7 @@
             好きなもの：ハッピーエンド
           </div>
         </div>
-        <img src="./assets/macaron.gif" class="modal_macaron_img" id="modalMacaronImg">
+        <img src="./assets/macaron.gif" class="modal_macaron_img" id="modalMacaronImg" loading="lazy">
       </div>
     </div>
 
@@ -271,18 +277,18 @@
         <div class="book_wrap">
           <div class="book bound">
             <div class="pages" id="bookPages">
-              <div class="page pg1 flipped"><img src="./assets/jacket1.png" class="pageimg"></div>
-              <div class="page pg2 flipped"><img src="./assets/img2.png" class="pageimg"></div>
-              <div class="page pg3 flipped"><img src="./assets/img3.png" class="pageimg"></div>
-              <div class="page pg4 flipped"><img src="./assets/img4.png" class="pageimg"></div>
-              <div class="page pg5 flipped"><img src="./assets/img5.png" class="pageimg"></div>
-              <div class="page pg6 flipped"><img src="./assets/img6.png" class="pageimg"></div>
-              <div class="page pg7 flipped"><img src="./assets/img7.png" class="pageimg"></div>
-              <div class="page pg8 flipped"><img src="./assets/img8.png" class="pageimg"></div>
-              <div class="page pg9 flipped"><img src="./assets/img9.png" class="pageimg"></div>
-              <div class="page pg10 flipped"><img src="./assets/img10.png" class="pageimg"></div>
-              <div class="page pg11"><img src="./assets/img11.png" class="pageimg"></div>
-              <div class="page pg12"><img src="./assets/img12.png" class="pageimg"></div>
+              <div class="page pg1 flipped"><img src="./assets/jacket1.png" class="pageimg" loading="lazy" width="1000" height="880"></div>
+              <div class="page pg2 flipped"><img src="./assets/img2.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg3 flipped"><img src="./assets/img3.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg4 flipped"><img src="./assets/img4.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg5 flipped"><img src="./assets/img5.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg6 flipped"><img src="./assets/img6.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg7 flipped"><img src="./assets/img7.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg8 flipped"><img src="./assets/img8.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg9 flipped"><img src="./assets/img9.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg10 flipped"><img src="./assets/img10.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg11"><img src="./assets/img11.png" class="pageimg" loading="lazy" width="1400" height="1229"></div>
+              <div class="page pg12"><img src="./assets/img12.png" class="pageimg" loading="lazy" width="806" height="708"></div>
             </div>
           </div>
         </div>
@@ -308,6 +314,6 @@
 
   </div>
 
-  <script src="./main.js"></script>
+  <script src="./main.js" defer></script>
 </body>
 </html>
