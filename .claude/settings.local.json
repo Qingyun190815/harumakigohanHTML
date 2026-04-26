@@ -5,7 +5,9 @@
       "Bash(curl *)",
       "WebSearch",
       "Bash(xargs grep *)",
-      "Bash(git checkout *)"
+      "Bash(git checkout *)",
+      "Bash(python -c \"from PIL import Image; img=Image.open\\('jacket1.png'\\); print\\(f'{img.width}x{img.height}'\\)\")",
+      "Bash(identify jacket1.png)"
     ]
   }
 }
