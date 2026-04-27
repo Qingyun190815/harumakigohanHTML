@@ -90,8 +90,14 @@ p { margin: 0; }
   top: 0;
   background-position: center top;
   background-repeat: no-repeat;
-  background-size: auto calc(100vh + 10vh);
+  background-size: auto calc(100vh + 260px);
   transition: opacity 0.5s ease;
+}
+
+@media screen and (min-aspect-ratio: 2/1) {
+  .top_back1, .top_back2, .top_back3, .top_back4 {
+    background-size: calc(100% + 320px) auto;
+  }
 }
 
 .top_back1 {
